@@ -65,7 +65,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-Developed by: Adityah M S.
+Developed by: ADITYAH M S.
 RegisterNumber: 212223220002
 
 ## AND GATE 
